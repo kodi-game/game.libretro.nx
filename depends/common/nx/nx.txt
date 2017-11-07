@@ -1,1 +1,1 @@
-nx https://github.com/libretro/nxengine-libretro master
+nx https://github.com/garbear/nxengine-libretro fix-compile-error
