@@ -10,3 +10,5 @@ set(NX_CUSTOM_BINARY ${NX_LIB}
     ${PROJECT_NAME}${CMAKE_SHARED_LIBRARY_SUFFIX})
 
 build_addon(${PROJECT_NAME} NX "")
+
+include(CPack)
