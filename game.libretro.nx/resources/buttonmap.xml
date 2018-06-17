@@ -14,7 +14,8 @@
     <!-- Inventory -->
     <feature name="start" mapto="RETRO_DEVICE_ID_JOYPAD_START"/>
     <!-- Settings -->
-    <feature name="select" mapto="RETRO_DEVICE_ID_JOYPAD_SELECT"/>
+    <feature name="back" mapto="RETRO_DEVICE_ID_JOYPAD_SELECT"/>
+    <!-- Directions -->
     <feature name="up" mapto="RETRO_DEVICE_ID_JOYPAD_UP"/>
     <feature name="down" mapto="RETRO_DEVICE_ID_JOYPAD_DOWN"/>
     <feature name="right" mapto="RETRO_DEVICE_ID_JOYPAD_RIGHT"/>
