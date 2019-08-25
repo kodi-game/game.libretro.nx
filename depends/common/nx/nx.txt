@@ -1,1 +1,1 @@
-nx https://github.com/libretro/nxengine-libretro/archive/cf371bcb67e6dec1124e5d77167738732e52d5c0.zip
+nx https://github.com/libretro/nxengine-libretro/archive/b8a9e5b8337c1d6232990328fa80e72685f25218.zip
