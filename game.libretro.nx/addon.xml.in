@@ -2,7 +2,7 @@
 <addon id="game.libretro.nx"
 		name="Cave Story (NXEngine)"
 		version="1.0.0.9"
-		provider-name="Libretro">
+		provider-name="Caitlin Shaw">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
 		<import addon="game.controller.default" version="1.0.0"/>
