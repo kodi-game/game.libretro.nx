@@ -23,4 +23,3 @@ msgstr ""
 msgctxt "Addon Description"
 msgid "NXEngine is a complete open-source clone/rewrite of the masterpiece jump-and-run platformer Doukutsu Monogatari (also known as Cave Story)."
 msgstr ""
-
