@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.nx"
 		name="Cave Story (NXEngine)"
-		version="1.0.0.18"
+		version="1.0.0.19"
 		provider-name="Caitlin Shaw">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -13,6 +13,7 @@
 		<extensions>exe</extensions>
 		<supports_vfs>false</supports_vfs>
 		<supports_standalone>false</supports_standalone>
+		<requires_opengl>false</requires_opengl>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<license>GPLv3</license>
