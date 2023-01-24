@@ -13,7 +13,7 @@ GPLv3
 
 ### Icon
 
-![Icon](game.libretro.nx/resources/icon.png)
+![Cave Story (NXEngine) icon](game.libretro.nx/resources/icon.png)
 
 ### Fanart
 
