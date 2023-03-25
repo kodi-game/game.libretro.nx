@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.nx"
 		name="Cave Story (NXEngine)"
-		version="1.0.0.33"
+		version="1.0.0.34"
 		provider-name="Caitlin Shaw">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
